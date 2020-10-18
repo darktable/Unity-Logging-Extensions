@@ -1,0 +1,16 @@
+{
+  "name": "com.github.darktable.unityloggingextensions",
+  "version": "0.1.0",
+  "displayName": "Unity Logging Extensions",
+  "description": "Autonatically decorate Unity logs with class and method names.",
+  "unity": "2018.4",
+  "keywords": [
+    "utilities",
+    "logging"
+  ],
+  "author": {
+    "name": "Calvin Rien",
+    "email": "",
+    "url": "https://github.com/darktable"
+  }
+}
